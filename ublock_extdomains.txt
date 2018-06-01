@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: PolishExtDomains
 ! Biała lista zewnętrznych domen (skrypty i ramki) na potrzeby dynamicznego filtrowania uBlock Origin/Nano Adblocker
-! Collaborators: Sevos
 ! Homepage: https://www.certyficate.it
 ! Uzywanie polskich filtrow jest jednoznaczne ze świadomością co do ich zawartosci (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedze uzytkownika
 ! Wsparcie: https://patronite.pl/polskiefiltry
