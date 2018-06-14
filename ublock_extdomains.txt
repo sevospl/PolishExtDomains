@@ -1,19 +1,3 @@
-no-large-media: behind-the-scene false
-* * 3p-frame block
-* * 3p-script block
-* ajax.aspnetcdn.com * noop
-* ajax.googleapis.com * noop
-* ajax.microsoft.com * noop
-* ajax.proxy.ustclug.org * noop
-* cdn.jsdelivr.net * noop
-* cdnjs.cloudflare.com * noop
-* code.jquery.com * noop
-* disqus.com * noop
-* disquscdn.com * noop
-* googlevideo.com * noop
-* lib.sinaapp.com * noop
-* libs.baidu.com * noop
-* sdn.geekzu.org * noop
 [Adblock Plus 2.0]
 ! Title: PolishExtDomains
 ! Biała lista zewnętrznych domen (skrypty i ramki) na potrzeby dynamicznego filtrowania uBlock Origin/Nano Adblocker
@@ -32,6 +16,22 @@ no-large-media: behind-the-scene false
 ! v.2018060114 aktualizacja: czw, 14 czerwca 2018, 20:48
 !
 
+no-large-media: behind-the-scene false
+* * 3p-frame block
+* * 3p-script block
+* ajax.aspnetcdn.com * noop
+* ajax.googleapis.com * noop
+* ajax.microsoft.com * noop
+* ajax.proxy.ustclug.org * noop
+* cdn.jsdelivr.net * noop
+* cdnjs.cloudflare.com * noop
+* code.jquery.com * noop
+* disqus.com * noop
+* disquscdn.com * noop
+* googlevideo.com * noop
+* lib.sinaapp.com * noop
+* libs.baidu.com * noop
+* sdn.geekzu.org * noop
 * services.mozilla.com * noop
 * translate.googleapis.com * noop
 * upcdn.b0.upaiyun.com * noop
