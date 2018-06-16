@@ -1,19 +1,17 @@
-[Adblock Plus 2.0]
+[uBlock Origin]
 ! Title: PolishExtDomains
 ! Biała lista zewnętrznych domen (skrypty i ramki) na potrzeby dynamicznego filtrowania uBlock Origin/Nano Adblocker
 ! Homepage: https://www.certyficate.it
 ! Uzywanie polskich filtrow jest jednoznaczne ze świadomością co do ich zawartosci (co blokują itp.) a twórcy nie ponoszą odpowiedzialności za niewiedze uzytkownika
 ! Wsparcie: https://patronite.pl/polskiefiltry
-! Last modified: 14 June 2018
+! Last modified: 16 June 2018
 ! Expires: 1 day
-! Version: 2018060101
 ! Support:
 !   Discord >> http://ds.certyficate.it
 !   Github >> https://github.com/sevospl/PolishExtDomains/issues
 ! License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ! Copyright (C) 2018 Certyficate IT
 ! Najnowsza wersja zawsze na: https://github.com/sevospl/PolishExtDomains
-! v.2018060114 aktualizacja: czw, 14 czerwca 2018, 20:48
 !
 
 no-large-media: behind-the-scene false
